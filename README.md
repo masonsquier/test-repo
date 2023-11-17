@@ -1,3 +1,3 @@
 # test-repo
 
-_My first repo on GitHub._
+My _first_ repo on **GitHub**.

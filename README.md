@@ -1,3 +1,3 @@
 # test-repo
 
-_**My**_ _first_ repo on **GitHub**.
+_**My**_ _second_ repo on **GitHub**.
